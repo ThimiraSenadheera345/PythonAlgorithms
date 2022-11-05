@@ -1,2 +1,2 @@
 # PythonAlgorithms
-Basic algorithms
+Selection Sort
